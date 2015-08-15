@@ -93,6 +93,7 @@ namespace unified_includes {
 			const static string builtin_print;
 			const static string builtin_exit;
 			const static string builtin_runtime_file_module_prefix;
+			const static string builtin__self__;
 	
 			const static string builtin__add__;
 			const static string builtin__subtract__;
