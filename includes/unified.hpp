@@ -137,6 +137,7 @@ namespace unified_includes {
 
 			const static string builtin__print__;
 			const static string builtin__slice__;
+			const static string builtin__subscript__;
 	};
 
 	enum type_pure_kind {

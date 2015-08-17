@@ -122,6 +122,7 @@ namespace unified_includes {
 
 	const string builtins::builtin__print__ = "__print__";
 	const string builtins::builtin__slice__ = "__slice__";
+	const string builtins::builtin__subscript__ = "__subscript__";
 
 	const vector<string> default_include_search_path_list = {
 #ifdef _WIN32
