@@ -92,6 +92,7 @@ namespace unified_includes {
 			const static string va_args_function_parameter;
 			const static string builtin_print;
 			const static string builtin_exit;
+			const static string builtin_add;
 			const static string builtin_runtime_file_module_prefix;
 			const static string builtin__self__;
 	

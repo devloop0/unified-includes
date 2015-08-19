@@ -77,6 +77,7 @@ namespace unified_includes {
 	const string builtins::va_args_function_parameter = "_";
 	const string builtins::builtin_print = "print";
 	const string builtins::builtin_exit = "exit";
+	const string builtins::builtin_add = "add";
 	const string builtins::builtin_runtime_file_module_prefix = "@@__runtime_file_module__";
 	const string builtins::builtin__self__ = "__self__";
 
