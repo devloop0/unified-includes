@@ -78,6 +78,8 @@ namespace unified_includes {
 	const string builtins::builtin_print = "print";
 	const string builtins::builtin_exit = "exit";
 	const string builtins::builtin_add = "add";
+	const string builtins::builtin_remove = "remove";
+	const string builtins::builtin_insert = "insert";
 	const string builtins::builtin_runtime_file_module_prefix = "@@__runtime_file_module__";
 	const string builtins::builtin__self__ = "__self__";
 
