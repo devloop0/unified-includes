@@ -96,6 +96,7 @@ namespace unified_includes {
 			const static string builtin_remove;
 			const static string builtin_insert;
 			const static string builtin_load_library;
+			const static string builtin_input;
 			const static string builtin_runtime_file_module_prefix;
 			const static string builtin_runtime_dll_module_prefix;
 			const static string builtin__self__;

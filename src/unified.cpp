@@ -81,6 +81,7 @@ namespace unified_includes {
 	const string builtins::builtin_remove = "remove";
 	const string builtins::builtin_insert = "insert";
 	const string builtins::builtin_load_library = "load_library";
+	const string builtins::builtin_input = "input";
 	const string builtins::builtin_runtime_file_module_prefix = "@@__runtime_file_module__";
 	const string builtins::builtin_runtime_dll_module_prefix = "@@__runtime_dll_module_function__";
 	const string builtins::builtin__self__ = "__self__";
