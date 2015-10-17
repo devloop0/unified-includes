@@ -82,6 +82,7 @@ namespace unified_includes {
 	const string builtins::builtin_insert = "insert";
 	const string builtins::builtin_load_library = "load_library";
 	const string builtins::builtin_input = "input";
+	const string builtins::builtin_is_pure = "is_pure";
 	const string builtins::builtin_runtime_file_module_prefix = "@@__runtime_file_module__";
 	const string builtins::builtin_runtime_dll_module_prefix = "@@__runtime_dll_module_function__";
 	const string builtins::builtin__self__ = "__self__";
@@ -95,6 +96,8 @@ namespace unified_includes {
 	const string builtins::builtin__binary_and__ = "__binary_and__";
 	const string builtins::builtin__binary_or__ = "__binary_or__";
 	const string builtins::builtin__exclusive_or__ = "__exclusive_or__";
+	const string builtins::builtin__shift_left__ = "__shift_left__";
+	const string builtins::builtin__shift_right__ = "__shift_right__";
 
 	const string builtins::builtin__add_equals__ = "__add_equals__";
 	const string builtins::builtin__subtract_equals__ = "__subtract_equals__";
@@ -105,6 +108,8 @@ namespace unified_includes {
 	const string builtins::builtin__binary_and_equals__ = "__binary_and_equals__";
 	const string builtins::builtin__binary_or_equals__ = "__binary_or_equals__";
 	const string builtins::builtin__exclusive_or_equals__ = "__exclusive_or_equals__";
+	const string builtins::builtin__shift_left_equals__ = "__shift_left_equals__";
+	const string builtins::builtin__shift_right_equals__ = "__shift_right_equals__";
 
 	const string builtins::builtin__greater_than__ = "__greater_than__";
 	const string builtins::builtin__less_than__ = "__less_than__";

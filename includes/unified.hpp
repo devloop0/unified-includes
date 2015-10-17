@@ -97,6 +97,7 @@ namespace unified_includes {
 			const static string builtin_insert;
 			const static string builtin_load_library;
 			const static string builtin_input;
+			const static string builtin_is_pure;
 			const static string builtin_runtime_file_module_prefix;
 			const static string builtin_runtime_dll_module_prefix;
 			const static string builtin__self__;
@@ -110,6 +111,8 @@ namespace unified_includes {
 			const static string builtin__binary_and__;
 			const static string builtin__binary_or__;
 			const static string builtin__exclusive_or__;
+			const static string builtin__shift_left__;
+			const static string builtin__shift_right__;
 
 			const static string builtin__add_equals__;
 			const static string builtin__subtract_equals__;
@@ -120,6 +123,8 @@ namespace unified_includes {
 			const static string builtin__binary_and_equals__;
 			const static string builtin__binary_or_equals__;
 			const static string builtin__exclusive_or_equals__;
+			const static string builtin__shift_left_equals__;
+			const static string builtin__shift_right_equals__;
 
 			const static string builtin__greater_than__;
 			const static string builtin__less_than__;
